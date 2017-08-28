@@ -1,0 +1,8 @@
+{
+  "name": "bibliotecaderesolucoes",
+  "app_id": "70b19885",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
